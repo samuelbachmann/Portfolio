@@ -23,7 +23,7 @@ header{
 
 h1{
    padding-top: 45vh;
-   font-size: 70pt;
+   font-size: 70pt;  
    color: #CC5320;
    line-height: 0.5;
    position: relative;
@@ -34,5 +34,20 @@ h2{
    position: relative;
 }
 
-/* Scaling */
-@media only screen 
+
+/* main */
+main{
+   margin: 0% 10% 0 10%;
+   height: 100vh;
+}
+
+h3{
+   color: #CC5320;
+   font-size: 35pt;
+}
+
+.info{
+   height: 80vh;
+   background-color: white;
+   border-radius: 5px 50px;
+}
