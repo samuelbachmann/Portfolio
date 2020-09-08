@@ -9,6 +9,10 @@
     background-color: #004B4B;
  }
 
+ a{
+    text-decoration: none;
+ }
+
 /* header */
 
 header{
@@ -66,16 +70,16 @@ h3{
 h4{
    font-size: 20pt ;
    color: #CC5320;
-   padding-top: 30vh;
+   padding-top: 100% ;
 }
 
 .projects{
    background-color: white;
-   height: 70vh;
+   height: 700px;
    width: 25%;
    min-width: 200px;
    text-align: center;
-   border-radius: 20px;
+   border-radius: 5px;
    margin: 10px;
 }
 
@@ -96,3 +100,18 @@ h4{
    background-size: 100%;
    background-repeat :no-repeat ;
 }
+
+.button{
+   color: white;
+   background:#CC5320 ;
+   font-size: 25px;
+   margin-top: 20%;
+   font-family:'Roboto', sans-serif;
+   text-align: center;
+   padding:20px;
+   border-radius: 20px;
+}
+
+.project-button{
+   margin-top:65%;
+}  
