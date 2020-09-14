@@ -136,3 +136,17 @@ h4{
    width: 80%; 
    margin: 5% 10%;
 }
+
+.contacten{
+   margin-top: 3%;
+   text-align: left;
+}
+
+/* footer */
+
+footer{
+   background-color: #CC5320;
+   height: 2.5vh;
+   color: white;
+   text-align: center;
+}
